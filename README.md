@@ -45,11 +45,12 @@ class CodingLinhTinh {
 ## **GitHub Statistics**
 
 <a href="https://github.com/CodingLinhTinh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinglinhtinh&hide=html&layout=compact&theme=radical" />
 </a>
 <br>
+<br>
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=default&line_height=27" alt="**CodingLinhTinh** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=radical&line_height=27" alt="**CodingLinhTinh** github stats"/>
 </a>
 
 [website]: #
