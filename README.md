@@ -9,13 +9,22 @@ I like to create great software and help other people do the same.
 ```kotlin
 class CodingLinhTinh {
  var name = "Ngoc Quach"
- var quotes = "WHEN SOMETHING IS IMPORTANT ENOUGH, YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. - Elon Mush"
+ var quotes = "
+     WHEN SOMETHING IS IMPORTANT ENOUGH, 
+          YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. 
+              - Elon Mush"
  
  val primarySkillset = {
     "Soft Skill": [ "Creativity", "Problem Solving", "Conflict Resolution" ],
     "Hard Skill": ["Blockchain", "Full Stack Website", "Game development"]
   }
- val languages = listOf("Python", "JavaScript", "Node.js", "PHP", "HTML", "CSS", "C++", "SQL Database") 
+ val languages = listOf(
+  "Python", "JavaScript", 
+  "Node.js", "PHP", 
+  "HTML", "CSS", 
+  "C++", 
+  "SQL Database"
+ ) 
 
 }
 ```
@@ -38,12 +47,12 @@ class CodingLinhTinh {
 <a href="https://github.com/CodingLinhTinh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&theme=default" />
 </a>
-
+<br>
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=default&line_height=27" alt="**CodingLinhTinh** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
+[website]: #
 [twitter]: https://twitter.com/CodingLinhTinh
 [youtube]: https://www.youtube.com/user/CodingLinhTinh/
 [instagram]: https://www.instagram.com/CodingLinhTinh/
