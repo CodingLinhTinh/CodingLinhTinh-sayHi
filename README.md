@@ -14,17 +14,17 @@ class CodingLinhTinh {
           YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. 
               - Elon Mush"
  
- val primarySkillset = {
+ primarySkillset = {
     "Soft Skill": [ "Creativity", "Problem Solving", "Conflict Resolution" ],
     "Hard Skill": ["Blockchain", "Full Stack Website", "Game development"]
   }
- val languages = listOf(
+languages = [
   "Python", "JavaScript", 
   "Node.js", "PHP", 
   "HTML", "CSS", 
   "C++", 
   "SQL Database"
- ) 
+ ]
 
 }
 ```
