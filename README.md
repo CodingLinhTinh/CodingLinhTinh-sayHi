@@ -48,7 +48,7 @@ languages = [
 </a>
 <br>
 <br>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/CodingLinhTinh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=radical&line_height=27" alt="**CodingLinhTinh** github stats"/>
 </a>
 
