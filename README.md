@@ -7,26 +7,49 @@ I like to create great software, webisites and help other people do the same.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-class CodingLinhTinh {
- var name = "Ngoc Quach"
- var quotes = "
-     WHEN SOMETHING IS IMPORTANT ENOUGH, 
-          YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. 
-              - Elon Mush"
- 
- primarySkillset = {
-    "Soft Skill": [ "Creativity", "Problem Solving", "Conflict Resolution" ],
-    "Hard Skill": ["Blockchain", "Full Stack Website", "Game development"]
-  }
+
+class CodingLinhTinh:
+    def __init__(self, name, quotes):
+        self.name = name
+        self.quotes = quotes
+        self.primarySkillset = {"Soft_skills":[],"Hard_skills":[]}
+        
+    def my_name(self):
+        print( self.name )
+        
+    def love_quote(self):
+        print( self.quotes )
+        
+    def primarySkills(self, soft_skills, hard_skills ):
+        self.primarySkillset["Soft_skills"].append(soft_skills)
+        self.primarySkillset["Hard_skills"].append(hard_skills)
+        print(self.primarySkillset)
+        
+    def languages(self, languages):
+        print(languages)
+        
+   
+name = "Ngoc Quach"
+quotes = '''
+WHEN SOMETHING IS IMPORTANT ENOUGH, 
+    YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. 
+        - Elon Mush
+              '''
+soft_skills = [ "Creativity", "Problem Solving", "Conflict Resolution" ]
+hard_skills = ["Blockchain", "Full Stack Website", "Game development", "Python development"]
 languages = [
   "Python", "JavaScript", 
   "Node.js", "PHP", 
   "HTML", "CSS", 
   "C++", 
   "SQL Database"
- ]
+]
 
-}
+CodingLinhTinh = CodingLinhTinh(name,quotes)
+CodingLinhTinh.my_name()
+CodingLinhTinh.love_quote()
+CodingLinhTinh.primarySkills(soft_skills,hard_skills)
+CodingLinhTinh.languages(languages)
 ```
 
 ## **Languages and Tools:**  
