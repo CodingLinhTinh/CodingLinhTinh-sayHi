@@ -1,6 +1,6 @@
 ### hi devs 👋
 
-I like to create great software, webisites and help other people do the same.
+I like to create great softwares, webisites, Python Bot and help other people do the same.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
