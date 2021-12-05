@@ -1,6 +1,6 @@
 ### hi devs 👋
 
-I like to create great softwares, webisites, Python Bot and help other people do the same.
+I like to become a DATA SCIENCE.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
@@ -36,13 +36,12 @@ WHEN SOMETHING IS IMPORTANT ENOUGH,
         - Elon Mush
               '''
 soft_skills = [ "Creativity", "Problem Solving", "Conflict Resolution" ]
-hard_skills = ["Blockchain", "Full Stack Website", "Game development", "Python development"]
+hard_skills = ["Blockchain", "Data Science"]
 languages = [
-  "Python", "JavaScript", 
-  "Node.js", "PHP", 
+  "Python", "PHP", 
   "HTML", "CSS", 
   "C++", 
-  "SQL Database"
+  "SQL"
 ]
 
 CodingLinhTinh = CodingLinhTinh(name,quotes)
@@ -56,8 +55,6 @@ CodingLinhTinh.languages(languages)
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
