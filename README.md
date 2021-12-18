@@ -83,7 +83,7 @@ CodingLinhTinh.languages(languages)
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [https://www.youtube.com/channel/UCoDEZQdUnnMOvhlACtsqzSw][youtube] **|** 
+📺 [youtube][youtube] https://www.youtube.com/channel/UCoDEZQdUnnMOvhlACtsqzSw **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
