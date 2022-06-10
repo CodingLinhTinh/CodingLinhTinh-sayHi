@@ -1,6 +1,6 @@
 ### hi devs 👋
 
-I like to become a DATA SCIENCE.
+I like to become a Python Engineer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
