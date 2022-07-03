@@ -1,6 +1,6 @@
 ### hi devs 👋
 
-I like to become a Python Engineer.
+I like to become a Python Developer.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
@@ -35,8 +35,8 @@ WHEN SOMETHING IS IMPORTANT ENOUGH,
     YOU DO IT EVEN IF THE ODDS ARE NOT IN YOUR FAVOR. 
         - Elon Mush
               '''
-soft_skills = [ "Creativity", "Problem Solving", "Conflict Resolution" ]
-hard_skills = ["Blockchain", "Data Science"]
+soft_skills = [ "Creativity", "Problem Solving", "Conflict Resolution", "Hard-working" ]
+hard_skills = ["Data Science", "Django"]
 languages = [
   "Python", "PHP", 
   "HTML", "CSS", 
